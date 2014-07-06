@@ -21,7 +21,7 @@ if fails >= pool/2:
     if hits == 0:
         print "CRITICAL GLITCH!"
         print "ERROR ERROR CRIT GLITCH EQUALS VERY YES"
-        hits = hits/hits
+        hits = 1/hits
     else:
         print "GLITCH!"
         print "ALL YOUR GLITCH IS BELONG TO YOU"
